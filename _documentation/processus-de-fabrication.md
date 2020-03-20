@@ -19,7 +19,7 @@ La description des étapes proposée ici est très réductrice, elle généralis
 
 ![types de thés](./media/types-de-the.svg) [^2]
 
-- **La cueillette** [^3] : Dans les jardins de thé, les bourgeons et/ou deux (ou quelques) jeunes feuilles sont cueillies sur les buissons de _Camellia Sinensis_ principalement au printemps et début de l'été et plus rarement en automne
+- **Cueillette** [^3] : Dans les jardins de thé, les bourgeons et/ou deux (ou quelques) jeunes feuilles sont cueillies sur les buissons de _Camellia Sinensis_ principalement au printemps et début de l'été et plus rarement en automne
 
 - **Flétrissage** [^4] : Les feuilles de thé commencent à se flétrir peu après la cueillette, avec un début progressif d'oxydation enzymatique. Le flétrissage est utilisé pour éliminer l'excès d'eau des feuilles et permet une très légère oxydation. Les feuilles peuvent être soit mises au soleil, soit laissées dans une pièce fraîche et brillante
 
@@ -29,9 +29,9 @@ La description des étapes proposée ici est très réductrice, elle généralis
 
 - **Étouffage** [^8] : Les feuilles chaudes et humides sont enveloppées dans du tissu ou du papier ou entassées dans un panier en bambou recouvert d'un tissu et sont laissées pendant quelques heures ou quelques jours, ce qui démarre un léger processus de fermentation. En étant étouffés les acides aminés et les polyphénols des feuilles de thé transformées subissent des modifications chimiques ce qui provoque le jaunissement des feuilles
 
-- **Façonnage** [^9] : Les feuilles de thé humides sont ensuite roulées à la main ou à l'aide d'une machine à rouler qui fait s'enrouler le thé sur lui-même. Ce roulage fait également suinter une partie de la sève, des huiles essentielles et des jus contenus dans les feuilles, ce qui rehausse le goût. Les feuilles peuvent ensuite être façonnées en d'autres formes, par exemple roulées en perles et autres formes élaborées. Le thé peut également être pressé à l'aide de pierres lourdes ou de presses
+- **Roulage** [^9] : Les feuilles de thé humides sont ensuite roulées à la main ou à l'aide d'une machine à rouler qui fait s'enrouler le thé sur lui-même. Ce roulage fait également suinter une partie de la sève, des huiles essentielles et des jus contenus dans les feuilles, ce qui rehausse le goût. Les feuilles peuvent ensuite être façonnées en d'autres formes, par exemple roulées en perles et autres formes élaborées. Le thé peut également être pressé à l'aide de pierres lourdes ou de presses
   
-- **Séchage** [^10] : Tous les thés doivent passer par cette étape pour être considérés comme stables. Le séchage permet de réduire le niveau d'humidité dans les feuilles de thé à 2-3%. Ce faisant, les feuilles sont stables et le processus d'oxydation des feuilles est presque entièrement stoppé. Un séchage trop lent du thé entraîne une détérioration des arômes et un séchage trop rapide fait que l'extérieur des feuilles sèche beaucoup plus vite que l'intérieur.  
+- **Séchage** [^10] : Tous les thés doivent passer par cette étape pour être considérés comme stables. Le séchage permet de réduire le niveau d'humidité dans les feuilles de thé à 4-5%. Ce faisant, les feuilles sont stables et le processus d'oxydation des feuilles est presque entièrement stoppé. Un séchage trop lent du thé entraîne une détérioration des arômes et un séchage trop rapide fait que l'extérieur des feuilles sèche beaucoup plus vite que l'intérieur.  
 La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fois et viendra rehausser les saveurs. Les feuilles de thé sont par exemple cuites à très basse température pendant plusieurs heures, généralement dans un four ou dans des paniers en bambou peu profonds sur des charbons chauds. [^11]
 
 - **Fermentation** [^12] : Le thé est vieilli pendant des périodes variables afin de favoriser la fermentation naturelle. Traditionnellement, ces thés fermentaient lorsqu'ils étaient exposés à des micro-organismes sur la route de la soie (sous la selle des chevaux). Aujourd'hui, les producteurs de thé inoculent des organismes bactériens : _aspergillus_, _blastobotrys_,  _streptomyces_, etc.  
