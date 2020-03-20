@@ -13,7 +13,7 @@ Catégoriser des thés qui partagent des caractéristiques communes ; j'imagine 
   
 Malgré la disparité des thés, les sources semblent s'accorder sur 6 types de thés [^1]  
   
-Pour établir un classement on pourrait se servir de la couleur des feuilles après traitement, du pourcentage d'oxydation ou de la robe de la _liqueur_ mais ça ne permet pas de classer tous les styles. La classification selon les étapes de fabrication semble être une meilleure piste [^2].
+Pour établir un classement on pourrait se servir de la couleur des feuilles après traitement, du pourcentage de fermentation ou de la robe de la _liqueur_ mais ça ne permet pas de classer tous les styles. La classification selon les étapes de fabrication semble être une meilleure piste [^2].
 
 > on m'a appris à me souvenir du feu de circulation et du panda. C'est-à-dire le rouge, le jaune, le vert et le noir et blanc pour couvrir tout les thés chinois [^10]
 
@@ -23,25 +23,27 @@ Pour en savoir plus sur [les étapes de fabrication du thé](./processus-de-fabr
 
 ### 绿茶 - lǜ chá - thé vert
 
-Le thé vert est la forme de thé la plus populaire en Chine [^3]. Pour une oxydation minimale les feuilles sont généralement séchées (fixation) dans un wok sec.  
+Le thé vert est la forme de thé la plus populaire en Chine [^3]. Pour une fermentation minimale les feuilles sont généralement séchées (fixation) dans un wok sec.  
 
 Quelques thés verts connus [^4] :
 
-- Long Jing
-- Gunpowder
-- Suzhou Bi Luo Chun
-- Anji Bai Cha
+- Xi Hu Long Jing
+- Tai Hu Bi Luo Chun
 - Huang Shan Mao Feng
-- Gou Gu Nao
-- Chun Mee
-- Wuliqing
+- Xin Yang Mao Jian
+- Liu An Gua Pian
+- Lu shan Yun Wu
+- Tai Ping Hou Kui
+- E Mei Zhu Ye Qing
+- An Ji Bai Cha
+
 
 ### 白茶 - bái chá - thé blanc
 
-Le thé blanc [^5] est un thé légèrement oxydé produit en deux étapes. Sa transformation n'implique aucune sorte de chaleur ou de cuisson. On laisse le thé se _flétrir_, c'est-à-dire qu'on le laisse sécher à l'air libre. Ce processus requiert beaucoup d'habileté et de discernement, un thé mal traité peut moisir et toute une récolte peut être perdue. Contrairement aux idées reçues il est légèrement oxydé (12%) du fait de l'absence de fixation.  
+Le thé blanc, sa transformation n'implique aucune sorte de chaleur ou de cuisson. On laisse le thé se _flétrir_, c'est-à-dire qu'on le laisse sécher à l'air libre. Ce processus requiert beaucoup d'habileté et de discernement, un thé mal traité peut moisir et toute une récolte peut être perdue. La fermentation est entre 20%-30%.  
 
 Comme le suggère un adage populaire dans la tradition Chinoise :
-> 年茶，三年药，七年宝
+> 一年茶，三年药，七年宝
 > 1 an thé, 3 ans médicament, 7 ans trésors
 
 Le thé blanc fait parti des thés de garde pouvant se bonifier avec le temps.
@@ -49,12 +51,12 @@ On peut le retrouver sous sous la forme de _galettes_ compressées.
 
 Quelques thés blancs connus :
 
-- Bai Mu Dan
-- Shou Mei
 - Bai Hao Yin Zhen
+- Bai Mu Dan
+- Gong Mei
+- Shou Mei
 - Yue Guang Bai
-- Ye Sheng Ya Bao
-- Biluo Chun
+
 
 ### 黄茶 - huáng chá - thé jaune
 
@@ -62,37 +64,36 @@ C'est un thé moins courant dont la fabrication  est similaire à celle du thé 
 
 ### 乌龙茶 - wū lóng chá - thé wulong
 
-Les wulong [^6] sont des thés semi-oxydées. Cela signifie que pendant la production, l'oxydation est initiée, contrôlée et arrêtée à un moment donné avant que les feuilles ne soient considérées comme complètement oxydées. C'est pourquoi vous entendrez souvent dire que le _wulong_ se situe entre le thé vert et le thé rouge.
+Les wulong [^6] sont des thés semi-fermentés. Cela signifie que pendant la production, la fermentation est initiée, contrôlée et arrêtée à un moment donné avant que les feuilles ne soient considérées comme complètement oxydées. C'est pourquoi vous entendrez souvent dire que le _wulong_ se situe entre le thé vert et le thé rouge.
 
 Quelques thés wulong connus :
 
-- Tie Guan Yin [^7]
-- Dan Cong [^7]
-- Alishan Wulong
-- Da Hong Pao
-- Ben Shan Wulong
-- Mao Xie
-- Ban Yan
-- Dong Ding Wulong 
-- Gaoshan Wulong
+- Wu Yi Yan Cha
+- An Xi Tie Guan Yin
+- Feng Huang Dan Cong
+- Taiwan Dong Ding Wulong Cha
+- Taiwan Gao Shan Cha
 
 ### 红茶 - hóng chá - thé rouge
 
-Le thé rouge[^8] ([noir en occident](/le-rouge-ou-le-noir)) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et n'était pas consommée en Chine.  
+Le thé rouge[^8] ([noir en occident](/le-rouge-ou-le-noir)) est un thé prèsque complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et n'était pas consommée en Chine.  
 
-Depuis la fin de la Seconde Guerre mondiale, la popularité des thés rouges n'a cessé de croître et au cours des vingt dernières années, une série d'hybrides intéressants ont été créés qui ont grandement amélioré la diversité et le goût du thé. Les feuilles de thé noir proviennent souvent de la sous-variété Assam : le _camellia sinensis assamica_ ou de nouveaux hybrides.
+Depuis la fin de la Seconde Guerre mondiale, la popularité des thés rouges n'a cessé de croître et au cours des vingt dernières années, une série d'hybrides intéressants ont été créés qui ont grandement amélioré la diversité et le goût du thé. Les feuilles de thé rouge proviennent souvent de la sous-variété Assam : le _camellia sinensis assamica_ ou de nouveaux hybrides.
 
 Quelques thés rouges connus :
 
-- Keemun
+- Qi Men Gong Fu(Keemun)
+- yi Hong Gong Fu
+- Dian Hong Gong Fu
+- Zheng He Gong Fu 
 - Zheng Shan Xiao Zhong
-- Congou
-- Dian Hong
-- Jin Jun Mei
+- Taiwan Hong Yu Hong Cha
 
-### 黑茶, hēi chá - Thé noir
 
-#### Fermentation naturelle
+
+### 黑茶, hēi chá - Thé noir   A voir !!
+
+#### Post-Fermentation 
 
 Dans cette famille on trouve le _pu'er Sheng Cha_ [^9] qui est un type de thé fabriqué à partir de feuilles d'une variété de théier nommé _Camellia sinensis assamica_ poussant dans le _Yunnan_. Le thé _pu'er_ est une _appellation contrôlée_ qui ne peut être produit qu'à partir de feuilles récoltées sur des théiers à grandes feuilles _da ye_ poussant dans le Yunnan, séchées au soleil et ayant subi une fermentation.
 
@@ -120,10 +121,14 @@ Quelques thés noirs à fermentation accélérée connus :
 
 - Liu An
 - Liu Bao
-- shu Pu'er
-- Hua Juan
+- Hua Zhuan
 - Qing Zhuan
-- Tian Jian
+- Fu Zhuan
+- Qing Zhuan
+- Kang Zhuan
+- Jin Jian
+- Fang Bao
+- Shu Pu
 
 ---
 #### Notes
