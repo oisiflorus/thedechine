@@ -1,7 +1,8 @@
 ---
 layout: page
 nom: invitation
-description: page de présentation de la journée
+description: >
+  Des ressources pour vous inviter à découvrir ou approfondir vos connaissances sur les thés de Chine et explorer une approche plus traditionnelle et artisanale des thés.
 ---
 {% include banner.html %}
 
