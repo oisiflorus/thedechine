@@ -1,11 +1,11 @@
 ---
 layout: page
 nom: les types de Thé
-description: description des 6 différents type de thé
+description: description des 7 différents type de thé
 par: pointbar, thais, ya-lin
 ---
 
-## Les 6 types de thés
+## Les 7 types de thés
 
 Tous les thés sont un produit de la plante _camellia sinensis_.  
 
@@ -89,9 +89,7 @@ Quelques thés rouges connus :
 - Zheng Shan Xiao Zhong
 - Taiwan Hong Yu Hong Cha
 
-
-
-### 黑茶, hēi chá - Thé noir   A voir !!
+### 黑茶, hēi chá - Thé noir
 
 #### Post-Fermentation 
 

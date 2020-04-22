@@ -11,6 +11,8 @@ defaults:
 collections:
   montpellier:
     output: true
+  nantes:
+    output: true
   documentation:
     output: true
 
