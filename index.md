@@ -36,15 +36,17 @@ Un parcours de lieux insolites est proposé aux participant·e·s.
 
 ## Documentation sur le thé 
 
+🚧 : Les articles sont encore en phase de construction 
+
 ### Quelques bases
 
-- [Les 7 types de thés](/documentation/les-types-de-thes) : Pour en savoir plus sur le classement des thés
-- [Les processus de fabrication](/documentation/processus-de-fabrication) : Les différentes étapes pour fabriquer chaque type de thé 
+- [Les 7 types de thés](/documentation/les-types-de-thes) : Pour en savoir plus sur le classement des thés. - 🚧
+- [Les processus de fabrication](/documentation/processus-de-fabrication) : Les différentes étapes pour fabriquer chaque type de thé. - 🚧
 
 ### La boite à outils
 
-- [Table d'infusion](/documentation/table-d-infusion) : En attendant [broutille](http://broutille.oisiflorus.com) l'application qui vous aidera à infuser vos thés, une petite table d'infusion sans prétention.
-- [Broutille](http://broutille.oisiflorus.com) : Un guide d'infusion pour vous aider à prendre soin de vos thés
+- [Table d'infusion](/documentation/table-d-infusion) : En attendant [broutille](http://broutille.oisiflorus.com) l'application qui vous aidera à infuser vos thés, une petite table d'infusion sans prétention. - 🚧
+- [Broutille](http://broutille.oisiflorus.com) : Un guide d'infusion pour vous aider à prendre soin de vos thés. - 🚧
 
 ## Quelques lieux de thés prévenants
 
