@@ -12,7 +12,8 @@ On pourra par la suite soit se rencontrer en présentiel ou bien en visio-confé
 Au choix :
 
 - [Stéphane](mailto:stephane@scopyleft.fr)
-- [Thaïs](thais.e@hotmail.fr)
+- [Thaïs](mailto:thais.e@hotmail.fr)
+- [Ya-Lin](mailto:bizienyalin@gmail.com)
 
 ### Sur Mastodon
 

@@ -1,5 +1,7 @@
 ---
 layout: page
+nom: invitation
+description: fiche de présentation de la journée de Nantes
 ---
 {% include banner.html %}
 
@@ -65,7 +67,7 @@ Le lieu de rendez-vous :
 On paye les thés et le repas du midi.  
 Peut-être des consommations dans les lieux.  
 Les animateurs n'ont pas souhaité être rémunérés.  
-Si tu veux plus d'infos par ici tu trouveras [les comptes](/budget)
+~~Si tu veux plus d'infos par ici tu trouveras [les comptes](.)~~
 
 ### Et si c’est trop cher pour moi ?
 
