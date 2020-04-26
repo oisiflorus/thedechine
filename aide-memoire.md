@@ -50,9 +50,8 @@ Pour mieux comprendre, chaque thé comporte des rubriques qui sont formatées co
 
 ```
 - zn: <idéogramme non-simplifié>
-  origin:
-    - province: <province>
-    - town: <ville(s)>
+  province: <province>
+  town: <ville(s)>
   elevation: <altitude(s)>
   temperature: <température(s) d'infusion recommandée>
   cultivar: <cultivar(s)>
@@ -66,4 +65,3 @@ Pour mieux comprendre, chaque thé comporte des rubriques qui sont formatées co
 ```
 
 Les espaces utilisés pour formater sont important, c'est eux qui structurent les données.
-
