@@ -14,7 +14,7 @@
 Par exemple, pour modifier une _origine_ ou un _cultivar_ qui ne correspond pas
 
 Il faut rejoindre le fichier qui contient les thés :  
-📎 [oisiflorus/broutille - /public/teas.yaml](https://github.com/oisiflorus/broutille/blob/master/public/teas.yaml)
+📎 [oisiflorus/broutille - /static/teas.yaml](https://github.com/oisiflorus/broutille/blob/master/static/teas.yaml)
 
 On commence par cliquer sur  le stylo : <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
 
@@ -29,7 +29,7 @@ Puis on clique sur le bouton vert : _Commit Change_
 Par exemple, changer le _pinyin_ ou ajouter une traduction _française_ 
 
 Il faut rejoindre le fichier qui contient les traductions :  
-📎 [oisiflorus/broutille - /public/teaTranslate.yaml](https://github.com/oisiflorus/broutille/blob/master/public/teaTranslate.yaml)
+📎 [oisiflorus/broutille - /static/teaTranslate.yaml](https://github.com/oisiflorus/broutille/blob/master/static/teaTranslate.yaml)
 
 On commence par cliquer sur  le stylo : <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
 
@@ -54,6 +54,7 @@ Pour mieux comprendre, chaque thé comporte des rubriques qui sont formatées co
   town: <ville(s)>
   elevation: <altitude(s)>
   temperature: <température(s) d'infusion recommandée>
+  fermentation: <pourçentage de fermentation>
   cultivar: <cultivar(s)>
   harvest: <season(s)>
   picking: <type(s) de ceuillette>
