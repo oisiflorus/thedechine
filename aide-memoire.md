@@ -14,7 +14,7 @@
 Par exemple, pour modifier une _origine_ ou un _cultivar_ qui ne correspond pas
 
 Il faut rejoindre le fichier qui contient les thés :  
-📎 [oisiflorus/broutille - /static/teas.yaml](https://github.com/oisiflorus/broutille/blob/master/static/teas.yaml)
+📎 [oisiflorus/api-tea - /data/yaml/teas.yaml](https://github.com/oisiflorus/api-tea/blob/master/data/yaml/teas.yaml)
 
 On commence par cliquer sur  le stylo : <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
 
@@ -24,25 +24,10 @@ On fait les modifications et en bas de la page on renseigne un message de _commi
 
 Puis on clique sur le bouton vert : _Commit Change_
 
-### Comment corriger une mauvaise traduction ?
-
-Par exemple, changer le _pinyin_ ou ajouter une traduction _française_ 
-
-Il faut rejoindre le fichier qui contient les traductions :  
-📎 [oisiflorus/broutille - /static/teaTranslate.yaml](https://github.com/oisiflorus/broutille/blob/master/static/teaTranslate.yaml)
-
-On commence par cliquer sur  le stylo : <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
-
-On fait les modifications et en bas de la page on renseigne un message de _commit_ pour expliquer les modifications - par exemple :
-
-> change le _pinyin_ pour _Anxi TieGuanYin_
-
-Puis on clique sur le bouton vert : _Commit Change_
-
 ### Ajouter un nouveau thé ?
 
 Il faut rejoindre le fichier qui contient les thés :  
-📎 [oisiflorus/broutille - /public/teas.yaml](https://github.com/oisiflorus/broutille/blob/master/public/teas.yaml)
+📎 [oisiflorus/api-tea - /data/yaml/teas.yaml](https://github.com/oisiflorus/api-tea/blob/master/data/yaml/teas.yaml)
 
 On peut _copier/coller_ un thé existant et changer les données (comme modèle vous pouvez prendre : 安溪鐵觀音 qui est pour l'instant le plus complété)
 
